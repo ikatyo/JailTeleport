@@ -1,0 +1,9 @@
+name: JAILTeleport
+main: JAILTeleport\JAILTeleport
+version: 1.2
+api: [1.14.0]
+load: POSTWORLD
+author: ikatyo
+commands:
+ jail:
+  description: 指定プレイヤーを牢屋に転送します。
